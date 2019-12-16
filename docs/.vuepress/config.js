@@ -1,14 +1,14 @@
 module.exports = {
-  base: '//',
+  base: '/lb-element-table/',
   locales: {
     '/zh/': {
       lang: 'zh-CN',
-      title: '',
+      title: 'lb-element-table',
       description: '基于element ui table二次封装，几乎支持原table所有的功能。'
     }
   },
   themeConfig: {
-    repo: 'zgmurder/',
+    repo: 'liub1934/lb-element-table',
     docsDir: 'docs',
     locales: {
       '/zh/': {
