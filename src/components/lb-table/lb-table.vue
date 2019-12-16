@@ -1,7 +1,7 @@
 /*
  * FileName: lb-table.vue
  * Remark: element table
- * Project: lb-element-table
+ * Project: 
  * Author: LiuBing
  * File Created: Tuesday, 19th March 2019 9:55:27 am
  * Last Modified: Tuesday, 19th March 2019 9:55:34 am

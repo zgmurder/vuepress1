@@ -1,7 +1,7 @@
 /*
  * FileName: lb-column.vue
  * Remark: element-column
- * Project: lb-element-table
+ * Project: 
  * Author: LiuBing
  * File Created: Tuesday, 19th March 2019 9:58:23 am
  * Last Modified: Tuesday, 19th March 2019 10:14:42 am
