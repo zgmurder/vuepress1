@@ -23,6 +23,6 @@ git config --local user.email "liub1934@gmail.com"
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f https://${access_token}@github.com/liub1934/lb-element-table.git master:gh-pages
+git push -f https://${access_token}@github.com/liub1934/vuepress1.git master:gh-pages
 
 cd -

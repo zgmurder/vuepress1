@@ -1,14 +1,14 @@
 module.exports = {
-  base: '/lb-element-table/',
+  base: '/vuepress1/',
   locales: {
     '/zh/': {
       lang: 'zh-CN',
-      title: 'lb-element-table',
+      title: 'vuepress1',
       description: '基于element ui table二次封装，几乎支持原table所有的功能。'
     }
   },
   themeConfig: {
-    repo: 'liub1934/lb-element-table',
+    repo: 'zgmurder/vuepress1',
     docsDir: 'docs',
     locales: {
       '/zh/': {
